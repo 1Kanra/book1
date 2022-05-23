@@ -2,4 +2,4 @@
 
 install dependencies
 
-@npm i express nodemon mongoose dotenv bcryptjs
+@npm i express nodemon mongoose dotenv bcryptjs jsonwebtoken
